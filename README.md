@@ -1,2 +1,2 @@
 # focus
-FOCUS - Fast Optimized Content Understading from US-ers
+FOCUS - Fast Optimized Content Understanding from US-ers
